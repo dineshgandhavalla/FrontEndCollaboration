@@ -1,0 +1,60 @@
+img#logo{
+  max-height:65px;
+  max-width:inherit;
+  margin-right:10px;
+  margin-top:-11px;
+  display:inline-block;
+}
+
+div#carousel-1.carousel.slide{
+	width:90%;
+	margin:0 auto;
+}
+
+li.dropdown: hover > ul.dropdown-menu{
+  display:block;
+  cursor:pointer;
+}
+div.jumbotron{
+	background-image:url(../../assets/img/pexels-photo-441795.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	color:#ffffff;
+	text-align:center;
+	 padding-top: 20%;
+      padding-bottom: 30%;
+	
+}
+
+.btn.btn-cart{
+  font-weight:700;
+  height:46px;
+  width:100px;
+  line-height:36px;
+  font-size:14px;
+  background:rgb(90,25,3);/* rgb(255,197,84); */
+  border-radius:3px;
+  border:none;
+  transition:all 0.218s;
+  padding:0;
+}
+
+.btn.btn-cart:hover,.btn.btn-cart:active,.btn.btn-cart:focus{
+  background:rgb(127,190,193);/* rgb(12,97,33); */
+}
+
+
+div.thumbnail{
+	 background-color:rgba(248,205,174,0.9);
+	 font-family:'Cookie';
+	 font-size:x-large;
+}
+nav.navbar.navbar-inverse.navbar.scrolled{
+  background-color:#7fbec1;
+  transition:background-color 300ms linear;
+}
+
+i.glyphicon.glyphicon-align-justify{
+  margin-left:5px;
+}
+

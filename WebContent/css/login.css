@@ -86,7 +86,7 @@ span.urole{
 	height: auto;
 	font-weight: normal;
 	padding: 14px 0;
-	text-transform: uppercase;
+	text-transform: uppercase; 
 	border-color: #1CB94A;
 }
 .btn-register:hover,
