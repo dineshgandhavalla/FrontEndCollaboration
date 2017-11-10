@@ -1,7 +1,3 @@
-/**
- * 
- */
-
 app.controller('BlogPostController',function($scope,BlogPostService,$location){
 	$scope.message=''
 	$scope.saveBlogPost=function(){

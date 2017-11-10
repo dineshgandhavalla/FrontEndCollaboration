@@ -1,6 +1,4 @@
-/**
- * job controller
- */
+
 app.controller('JobController',function($scope,$location,JobService)
 		{
 	

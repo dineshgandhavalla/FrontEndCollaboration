@@ -1,7 +1,3 @@
-/**
- * Friend Controller
- */
-
 app.controller('FriendController',function($scope,$location,FriendService)
 		{
 	function listOfSuggestedUsers()

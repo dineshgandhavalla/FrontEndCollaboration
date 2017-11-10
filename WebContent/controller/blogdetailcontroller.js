@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 app.controller('BlogDetailController',function($scope,$location,BlogPostService,$routeParams){
 	var id=$routeParams.id
 	
