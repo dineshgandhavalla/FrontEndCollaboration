@@ -1,4 +1,3 @@
-
 var form = $('.form');
 var btn = $('#submit');
 var topbar = $('.topbar');

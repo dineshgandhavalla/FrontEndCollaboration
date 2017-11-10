@@ -1,13 +1,3 @@
-/*!
- * bootstrap-fileinput v4.4.0
- * http://plugins.krajee.com/file-input
- *
- * Author: Kartik Visweswaran
- * Copyright: 2014 - 2017, Kartik Visweswaran, Krajee.com
- *
- * Licensed under the BSD 3-Clause
- * https://github.com/kartik-v/bootstrap-fileinput/blob/master/LICENSE.md
- */
 (function (factory) {
     "use strict";
     //noinspection JSUnresolvedVariable

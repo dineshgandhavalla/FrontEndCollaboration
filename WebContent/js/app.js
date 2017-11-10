@@ -7,7 +7,7 @@ app.config(function($routeProvider,$locationProvider){
 	.when('/registration',{
 		templateUrl:'views/registrationform.html',
 		controller:'UserController'
-	})
+	}) 
 	.when('/login',{
 		templateUrl:'views/login.html',
 		controller:'UserController'
